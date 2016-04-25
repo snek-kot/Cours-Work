@@ -133,7 +133,7 @@ void loop()
       }
       break;
 
-    //Р С›РЎвЂљР С•Р В±РЎР‚aР В¶Р ВµР Р…Р С‘Р Вµ mRange
+   
     case 1:
       {
         lcd.clear();
