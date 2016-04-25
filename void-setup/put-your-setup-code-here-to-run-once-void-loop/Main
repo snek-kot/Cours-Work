@@ -141,7 +141,7 @@ void loop()
       }
       break;
 
-    //Р С›РЎвЂљР С•Р В±РЎР‚aР В¶Р ВµР Р…Р С‘Р Вµ mSpeed
+  
     case 2:
       {
         lcd.clear();
@@ -149,7 +149,7 @@ void loop()
       }
       break;
 
-    //Р С›РЎвЂљР С•Р В±РЎР‚aР В¶Р ВµР Р…Р С‘Р Вµ mFuel
+
     case 3:
       {
         lcd.clear();
@@ -158,7 +158,7 @@ void loop()
       break;
 
 
-    //Р С›РЎвЂљР С•Р В±РЎР‚aР В¶Р ВµР Р…Р С‘Р Вµ mTemp_enj
+
     case 4:
       {
         lcd.clear();
@@ -166,7 +166,7 @@ void loop()
       }
       break;
 
-    //Р С›РЎвЂљР С•Р В±РЎР‚aР В¶Р ВµР Р…Р С‘Р Вµ mTemp_aer
+  
     case 5:
       {
         lcd.clear();
@@ -174,7 +174,7 @@ void loop()
       }
       break;
 
-    //Р С›РЎвЂљР С•Р В±РЎР‚aР В¶Р ВµР Р…Р С‘Р Вµ mFinishRang
+
     case 6:
       {
         lcd.clear();
@@ -182,7 +182,6 @@ void loop()
       }
       break;
 
-    //Р С›РЎвЂљР С•Р В±РЎР‚aР В¶Р ВµР Р…Р С‘Р Вµ mFinishFue
     case 7:
       {
         lcd.clear();
