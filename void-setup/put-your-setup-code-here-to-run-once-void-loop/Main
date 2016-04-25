@@ -46,7 +46,7 @@ void setup() {
 
 }
 
-//Р В¤РЎС“Р Р…Р С”РЎвЂ Р С‘РЎРЏ Р Р…Р В°Р В¶Р В°РЎвЂљР С‘РЎРЏ Р С”Р Р…Р С•Р С—Р С”Р С‘
+
 int getPressedButton()
 {
   int buttonValue = analogRead(0);
