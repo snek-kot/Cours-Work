@@ -16,10 +16,10 @@ const int BUTTON_SELECT = 5;
 
 
 const int mMAIN_MENU   = 0;
-const int mRange       = 1; // РЎР‚Р В°РЎРѓРЎвЂљР С•РЎРЏР Р…Р С‘РЎРЏ
-const int mSpeed       = 2; // РЎРѓР С”Р С•РЎР‚Р С•РЎРѓРЎвЂљР С‘
-const int mFuel        = 3; // Р В±Р В°Р С”Р В°
-const int mTemp_enj    = 4; // РЎвЂљР ВµР С�Р С—Р ВµРЎР‚Р В°РЎвЂљРЎС“РЎР‚РЎвЂ№ Р Т‘Р Р†Р С‘Р С–Р В°РЎвЂљР ВµР В»РЎРЏ
+const int mRange       = 1; 
+const int mSpeed       = 2; 
+const int mFuel        = 3; 
+const int mTemp_enj    = 4; 
 const int mTemp_aer    = 5; 
 const int mFinishRange = 6;
 const int mFinishFuel  = 7; 
