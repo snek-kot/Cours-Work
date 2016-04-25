@@ -15,7 +15,7 @@ const int BUTTON_SELECT = 5;
 
 // Р РЋР С•РЎРѓРЎвЂљР С•РЎРЏР Р…Р С‘РЎРЏ
 
-const int mMAIN_MENU   = 0; // Р вЂњР В»Р В°Р Р†Р Р…Р С•Р Вµ Р С�Р ВµР Р…РЎР‹
+const int mMAIN_MENU   = 0;
 const int mRange       = 1; // РЎР‚Р В°РЎРѓРЎвЂљР С•РЎРЏР Р…Р С‘РЎРЏ
 const int mSpeed       = 2; // РЎРѓР С”Р С•РЎР‚Р С•РЎРѓРЎвЂљР С‘
 const int mFuel        = 3; // Р В±Р В°Р С”Р В°
